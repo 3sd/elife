@@ -339,6 +339,7 @@ class CRM_Core_Selector_Controller {
       // output requires paging/sorting capability
       $rows = self::getRows($this);
       CRM_Utils_Hook::searchColumns($contextName, $columnHeaders, $rows, $this);
+      unset($rows);
       $rowsEmpty = count($rows) ? FALSE : TRUE;
       $qill = $this->getQill();
       $summary = $this->getSummary();
