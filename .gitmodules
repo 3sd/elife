@@ -1,0 +1,3 @@
+[submodule "sites/all/civicrm_extensions/civicrm-recurring-mail"]
+	path = sites/all/civicrm_extensions/civicrm-recurring-mail
+	url = https://github.com/3sd/civicrm-recurring-mail
