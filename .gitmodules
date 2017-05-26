@@ -1,3 +1,6 @@
 [submodule "sites/all/civicrm_extensions/civicrm-recurring-mail"]
 	path = sites/all/civicrm_extensions/civicrm-recurring-mail
 	url = https://github.com/3sd/civicrm-recurring-mail
+	[submodule "sites/all/civicrm_extensions/civicrm-elife-article-token"]
+		path = sites/all/civicrm_extensions/civicrm-elife-article-token
+		url = https://github.com/3sd/civicrm-elife-article-token
