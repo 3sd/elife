@@ -6,4 +6,4 @@
 	url = https://github.com/3sd/civicrm-elife-article-token
 [submodule "sites/all/civicrm_extensions/org.civicoop.emailapi"]
 	path = sites/all/civicrm_extensions/org.civicoop.emailapi
-	url = git@github.com:3sd/org.civicoop.emailapi.git
+	url = https://github.com/3sd/org.civicoop.emailapi
