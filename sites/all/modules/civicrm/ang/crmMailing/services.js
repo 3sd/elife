@@ -512,7 +512,7 @@
             return crmLegacy.url('civicrm/contact/search/advanced',
               'force=1&mailing_id=' + mailing.id + statType.searchFilter);
           case 'report':
-            var reportIds = CRM.crmMailing.reportIds;
+            var reportIds = CRM.crmMailing.reportIds; 
             return crmLegacy.url('civicrm/report/instance/' + reportIds[statType.reportType],
                 'reset=1&mailing_id_value=' + mailing.id + statType.reportFilter);
           default:
@@ -539,7 +539,6 @@
             scope.mailing = newValue;
           });
           scope.crmMailingConst = CRM.crmMailing;
-
           scope.ts = CRM.ts(null);
           scope.hs = crmUiHelp({file: 'CRM/Mailing/MailingUI'});
           scope[directiveName] = attr[directiveName] ? scope.$parent.$eval(attr[directiveName]) : {};
