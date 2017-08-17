@@ -4,9 +4,6 @@
 [submodule "sites/all/civicrm_extensions/org.civicoop.emailapi"]
 	path = sites/all/civicrm_extensions/org.civicoop.emailapi
 	url = https://github.com/3sd/org.civicoop.emailapi
-[submodule "sites/all/civicrm_extensions/civicrm-inky-mail"]
-	path = sites/all/civicrm_extensions/civicrm-inky-mail
-	url = https://github.com/3sd/civicrm-inky-mail
 [submodule "sites/all/civicrm_extensions/civicrm-elife-token"]
 	path = sites/all/civicrm_extensions/civicrm-elife-token
 	url = https://github.com/3sd/civicrm-elife-token.git
