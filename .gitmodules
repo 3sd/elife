@@ -7,3 +7,6 @@
 [submodule "sites/all/civicrm_extensions/civicrm-inky-compose"]
 	path = sites/all/civicrm_extensions/civicrm-inky-compose
 	url = https://github.com/3sd/civicrm-inky-compose.git
+[submodule "sites/all/civicrm_extensions/civicrm-elife-token"]
+	path = sites/all/civicrm_extensions/civicrm-elife-token
+	url = https://github.com/elifesciences/civicrm-elife-token
