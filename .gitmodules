@@ -1,9 +1,6 @@
 [submodule "sites/all/civicrm_extensions/civicrm-recurring-mail"]
 	path = sites/all/civicrm_extensions/civicrm-recurring-mail
 	url = https://github.com/3sd/civicrm-recurring-mail
-[submodule "sites/all/civicrm_extensions/org.civicoop.emailapi"]
-	path = sites/all/civicrm_extensions/org.civicoop.emailapi
-	url = https://github.com/3sd/org.civicoop.emailapi
 [submodule "sites/all/civicrm_extensions/civicrm-inky-compose"]
 	path = sites/all/civicrm_extensions/civicrm-inky-compose
 	url = https://github.com/3sd/civicrm-inky-compose.git
